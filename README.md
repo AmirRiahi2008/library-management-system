@@ -1,4 +1,4 @@
-# Library Management System
+# 📚 Library Management System
 
 ## Overview
 
@@ -6,7 +6,7 @@
 
 This project is built with **Vanilla PHP** and uses **Medoo** as a lightweight database framework to simplify MySQL/SQLite operations. It's ideal for learning CRUD concepts, form handling, and data validation.
 
-## Features
+## 🎯 Features
 
 - Add new books with title, author, and year.
 - Edit existing book entries.
@@ -15,14 +15,14 @@ This project is built with **Vanilla PHP** and uses **Medoo** as a lightweight d
 - Validate inputs to prevent duplicates or empty fields.
 - Friendly error messages.
 
-## Technologies Used
+## ⚙️ Technologies Used
 
 - **PHP (Vanilla)** – Core backend language.
 - **Medoo** – Lightweight PHP database framework.
 - **MySQL / SQLite** – Relational database system.
 - **HTML & CSS** – For UI structure and styling.
 
-## Installation
+## 🚀 Installation
 
 To run this project locally:
 
@@ -31,7 +31,7 @@ Clone the repository:
    git clone https://github.com/AmirRiahi2008/library-management-system
    cd library-management-system
 ```
-To Create Libary Database Enter 
+Enter This Query To Create Libary Database. 
 ```
 CREATE TABLE books (
   id INTEGER PRIMARY KEY AUTO_INCREMENT,
@@ -39,5 +39,3 @@ CREATE TABLE books (
   author VARCHAR(255),
   published_year INT
 );
-قلقلقلقلقق÷÷÷÷÷efefe
-ثث
